@@ -1,0 +1,11 @@
+{
+  "name": "michaelmeneses/moodle-local_middagdiagnostic",
+  "description": "This feature generate a JSON file with informations for diagnostic from system.",
+  "type": "moodle-local",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "middagdiagnostic"
+  }
+}
